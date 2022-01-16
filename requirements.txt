@@ -3,7 +3,7 @@ easyocr==1.4.1
 lxml==4.6.5
 numpy==1.21.3
 opencv-python-headless==4.5.4.58
-Pillow==8.3.2
+Pillow==9.0.0
 requests==2.26.0
 scikit-image==0.18.3
 scipy==1.7.1
